@@ -34,8 +34,11 @@ Dự án bao gồm
 
 
 
+
 ## 📷 Dashboard Preview
 ![Dashboard](https://github.com/user-attachments/assets/0f841591-38b0-4a7d-bbf2-28ddaee6452b)
+![Product](https://github.com/user-attachments/assets/b0a77504-fbea-42ce-b2c6-80c29c8344f6)
+![Customer](https://github.com/user-attachments/assets/22293c3d-645d-4229-a1c1-ac4a8ab3e7a4)
 
 ---
 
